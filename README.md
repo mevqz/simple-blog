@@ -1,4 +1,4 @@
 simple-blog
 ===========
 
-A simple and raw (no framework) PHP blog implemented in MVC pattern. This project was made for learning purpose, not for use in a real production environment.
+A simple blog implemented with PHP and the MVC pattern. This project was made for educational purpose, is not meant to be used in a production enviroment.
